@@ -2,6 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello Github! ");
-	System.out.println("Ğ¡º£¹ê! ");
+	System.out.println("å°æµ·é¾Ÿ ");
     }
 }
